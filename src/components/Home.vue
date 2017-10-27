@@ -1,6 +1,8 @@
 <template>
-  <div>
-  	<h1>Nothing to Show</h1>
+  <div class="home">
+  	<div class="d-flex">
+  		Color
+  	</div>
   </div>
 </template>
 
